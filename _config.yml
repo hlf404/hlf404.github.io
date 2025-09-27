@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "黄龙飞, Computer Science and Technology, 
-                            PhD Student, Nanjing University of Science and Technology."
+description              : "黄龙飞, Computer Science and Technology<br>PhD Student, Nanjing University of Science and Technology"
 repository               : "hlf404/hlf404.github.io"
 google_scholar_stats_use_cdn : true
 
