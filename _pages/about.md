@@ -43,7 +43,7 @@ I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Intr
 
 [Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion]
 
-NeruIPS 2025
+NeruIPS 2025 [**Github**]
 
 Qingyuan Jiang, **Longfei Huang**, Yang Yang*
 
@@ -56,7 +56,7 @@ Qingyuan Jiang, **Longfei Huang**, Yang Yang*
 
 [Multimodal Semantic Decoupled Prompt for Zero-Shot Referring Expression Comprehension]
 
-ECAI 2025
+ECAI 2025 [**Github**]<a href="https://github.com/hlf404/ECAI25-MSDP" target="_blank"><b>Github</b></a>
 
 Yuxuan Zhang<sup>#</sup>, **Longfei Huang**<sup>#</sup>, Yang Yang* (Co-author)
 
@@ -69,7 +69,7 @@ Yuxuan Zhang<sup>#</sup>, **Longfei Huang**<sup>#</sup>, Yang Yang* (Co-author)
 
 [Refining Visual Perception for Decoration Display: A Self-Enhanced Deep Captioning Model](https://raw.githubusercontent.com/mlresearch/v260/main/assets/huang25a/huang25a.pdf)
 
-ACML 2024
+ACML 2024 [**Github**]<a href="https://github.com/hlf404/ACML-SET" target="_blank"><b>Github</b></a>
 
 **Longfei Huang**, Xiangyu Wu, Jingyuan Wang, Weili Guo, Yang Yang*
 
