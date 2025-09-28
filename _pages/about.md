@@ -32,7 +32,7 @@ I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Intr
 - *2023.09 - 2024.09*, Postgraduate studies (Master’s), Nanjing University of Science and Technology. 
 - *2019.09 - 2023.06*, B.E. in Computer Science and Technology, Nanjing Xiaozhuang University.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.04* Outstanding Undergraduate Thesis (Design) Award of Jiangsu Province. 
 - *2023.09* Outstanding Undergraduate Thesis (Design) Award of NanJing XiaoZhuang University.
 
