@@ -48,6 +48,8 @@ NeruIPS 2025
 Qingyuan Jiang, **Longfei Huang**, Yang Yang*
 
 [**Project**]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='images/ECAI25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,6 +61,8 @@ ECAI 2025
 Yuxuan Zhang<sup>#</sup>, **Longfei Huang**<sup>#</sup>, Yang Yang* (Co-author)
 
 [**Project**]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACML 2024</div><img src='images/ACML24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
