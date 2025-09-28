@@ -29,7 +29,7 @@ I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Intr
 
 # 📖 Educations
 - *2024.09 - Now*, Postgraduate studies (PhD), Nanjing University of Science and Technology.
-- *2023.09 - 2024.09*, Postgraduate studies (Master’s), Nanjing University of Science and Technology. 
+- *2023.09 - 2024.09*, Postgraduate studies (Master), Nanjing University of Science and Technology. 
 - *2019.09 - 2023.06*, B.E. in Computer Science and Technology, Nanjing Xiaozhuang University.
 
 # 🏆 Honors and Awards
