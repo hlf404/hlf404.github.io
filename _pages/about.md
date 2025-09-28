@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Knowledge Mining Group (KMG)</a> at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I am supervised by Prof. <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Yang Yang</a> and Associate Prof. <a href="https://jiangqy.github.io/" target="_blank">Qingyuan Jiang</a>. My research interests focus on multimodal learning.
+Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Knowledge Mining Group (KMG)</a> at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I am supervised by Prof. <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Yang Yang</a> and Associate Prof. <a href="https://jiangqy.github.io/" target="_blank">Qingyuan Jiang</a>. My research interests focus on multimodal learning.
 
 # 🔥 News
 - *2025.09*: &nbsp; One paper has been accepted by **NeruIPS 2025** as an Oral paper (CCF-A).
@@ -43,7 +43,7 @@ I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Intr
 
 [Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion]
 
-NeruIPS 2025 [**Github**]
+NeruIPS 2025 (Oral) [**Github**]
 
 Qingyuan Jiang, **Longfei Huang**, Yang Yang*
 
