@@ -24,8 +24,8 @@ I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Intr
 - *2024.09*: &nbsp; One paper has been accepted by **ACML 2024** (CCF-C). 
 - *2024.06*: &nbsp; The Second Prize in the 2024 Global AI Technology Innovation Competition - Drone Perspective Dual Light Target Detection.
 - *2024.01*: &nbsp; Attended Baidu Wenxin Developer Talk — Research and Application of Multimodal Foundation Model Fine-tuning Techniques. 
-- *2023.12*: &nbsp; The Champion in the 2023 Global Campus AI Algorithm Elite Competition - Zero-shot Referring Expression Comprehension Challenge. 
-- *2023.12*: &nbsp; The Second Prize in the 2023 Greater Bay Area (Huangpu) International Algorithm Example Competition - Continual Learning Track for Sequential Tasks.
+- *2023.12*: &nbsp; The Champion in the 2023 Global Campus AI Algorithm Elite Competition - Zero-shot Referring Expression Comprehension. 
+- *2023.12*: &nbsp; The Second Prize in the 2023 Greater Bay Area (Huangpu) International Algorithm Example Competition - Continual Learning Track.
 
 # 📖 Educations
 - *2024.09 - Now*, Postgraduate studies (PhD), Nanjing University of Science and Technology.
