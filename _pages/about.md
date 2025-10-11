@@ -43,11 +43,11 @@ Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/
 
 [Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion]
 
-NeruIPS 2025 (Oral) [**Github**]
+NeruIPS 2025 (Oral) [**Github**](https://github.com/hlf404/AUG)
 
 Qingyuan Jiang, **Longfei Huang**, Yang Yang*
 
-[**Project**]
+[**Paper**] Coming Soon
 </div>
 </div>
 
@@ -60,7 +60,7 @@ ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP)
 
 Yuxuan Zhang<sup>#</sup>, **Longfei Huang**<sup>#</sup>, Yang Yang* (Co-author)
 
-[**Project**]
+[**Paper**] Coming Soon
 </div>
 </div>
 
@@ -73,7 +73,7 @@ ACML 2024 [**Github**](https://github.com/hlf404/ACML-SET)
 
 **Longfei Huang**, Xiangyu Wu, Jingyuan Wang, Weili Guo, Yang Yang*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='eK0HWicAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='eK0HWicAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
 
