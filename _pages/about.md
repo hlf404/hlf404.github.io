@@ -41,33 +41,33 @@ Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/NIPS25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion]
+Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion
 
 NeruIPS 2025 (Oral) [**Github**](https://github.com/hlf404/AUG)
 
 Qingyuan Jiang, **Longfei Huang**, Yang Yang*
 
-[**Paper**] Coming Soon
+[**Paper**]() Coming Soon
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='images/ECAI25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multimodal Semantic Decoupled Prompt for Zero-Shot Referring Expression Comprehension]
+Multimodal Semantic Decoupled Prompt for Zero-Shot Referring Expression Comprehension
 
 ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP)
 
 Yuxuan Zhang<sup>#</sup>, **Longfei Huang**<sup>#</sup>, Yang Yang* (Co-author)
 
-[**Paper**] Coming Soon
+[**Paper**]() Coming Soon
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACML 2024</div><img src='images/ACML24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Refining Visual Perception for Decoration Display: A Self-Enhanced Deep Captioning Model](https://raw.githubusercontent.com/mlresearch/v260/main/assets/huang25a/huang25a.pdf)
+Refining Visual Perception for Decoration Display: A Self-Enhanced Deep Captioning Model
 
 ACML 2024 [**Github**](https://github.com/hlf404/ACML-SET)
 
