@@ -60,7 +60,7 @@ ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP)
 
 Yuxuan Zhang†, **Longfei Huang**†, Yang Yang* (†Equal Contribution)
 
-[**Paper**]() Coming Soon
+[**Paper**]() Coming Soon [Competition report](https://arxiv.org/abs/2407.04998)
 </div>
 </div>
 
@@ -77,8 +77,8 @@ ACML 2024 [**Github**](https://github.com/hlf404/ACML-SET)
 </div>
 </div>
 
-- [The Solution for the sequential task continual learning track of the 2nd Greater Bay Area International Algorithm Competition](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:9yKSN-GCB0IC), Competition report.
+- [The Solution for the sequential task continual learning track of the 2nd Greater Bay Area International Algorithm Competition](https://arxiv.org/abs/2407.04996), Competition report.
 
-- [The Solution for the 5th GCAIAC Zero-shot Referring Expression Comprehension Challenge](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:d1gkVwhDpl0C), Competition report.
+- [The Solution for the 5th GCAIAC Zero-shot Referring Expression Comprehension Challenge](https://arxiv.org/abs/2407.04998), Competition report.
   
-- [The Solution for the GAIIC2024 RGB-TIR object detection Challenge](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:u-x6o8ySG0sC), Competition report.
+- [The Solution for the GAIIC2024 RGB-TIR object detection Challenge](https://arxiv.org/abs/2407.03872), Competition report.
