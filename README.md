@@ -1,72 +1,67 @@
+<span class='anchor' id='about-me'></span>
+Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Knowledge Mining Group (KMG)</a> at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I am supervised by Prof. <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Yang Yang</a> and Associate Prof. <a href="https://jiangqy.github.io/" target="_blank">Qingyuan Jiang</a>. My research interests focus on multimodal learning.
 
-<h1 align="center">
-AcadHomepage
-</h1>
+# 🔥 News
+- *2025.09*: &nbsp; One paper has been accepted by **NeruIPS 2025** as an Oral paper (CCF-A).
+- *2025.07*: &nbsp; One paper has been accepted by **ECAI 2025** (CCF-B).
+- *2024.09*: &nbsp; One paper has been accepted by **ACML 2024** (CCF-C). 
+- *2024.06*: &nbsp; The Second Prize in the 2024 Global AI Technology Innovation Competition - Drone Perspective Dual Light Target Detection.
+- *2024.01*: &nbsp; Attended Baidu Wenxin Developer Talk — Research and Application of Multimodal Foundation Model Fine-tuning Techniques. 
+- *2023.12*: &nbsp; The Champion in the 2023 Global Campus AI Algorithm Elite Competition - Zero-shot Referring Expression Comprehension. 
+- *2023.12*: &nbsp; The Second Prize in the 2023 Greater Bay Area (Huangpu) International Algorithm Example Competition - Continual Learning Track.
 
-<div align="center">
+# 📖 Educations
+- *2024.09 - Now*, Postgraduate studies (PhD), Nanjing University of Science and Technology.
+- *2023.09 - 2024.09*, Postgraduate studies (Master), Nanjing University of Science and Technology. 
+- *2019.09 - 2023.06*, B.E. in Computer Science and Technology, Nanjing Xiaozhuang University.
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+# 🏆 Honors and Awards
+- *2024.04* Outstanding Undergraduate Thesis (Design) Award of Jiangsu Province. 
+- *2023.09* Outstanding Undergraduate Thesis (Design) Award of NanJing XiaoZhuang University.
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/NIPS25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion
+
+NeruIPS 2025 (Oral) [**Github**](https://github.com/hlf404/AUG)
+
+Qingyuan Jiang, **Longfei Huang**, Yang Yang*
+
+[**Paper**]() Coming Soon
+</div>
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='images/ECAI25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+Multimodal Semantic Decoupled Prompt for Zero-Shot Referring Expression Comprehension
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP)
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+Yuxuan Zhang<sup>#</sup>, **Longfei Huang**<sup>#</sup>, Yang Yang* (Co-author)
 
-## Quick Start
+[**Paper**]() Coming Soon
+</div>
+</div>
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACML 2024</div><img src='images/ACML24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-## Debug Locally
+Refining Visual Perception for Decoration Display: A Self-Enhanced Deep Captioning Model
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+ACML 2024 [**Github**](https://github.com/hlf404/ACML-SET)
 
-# Acknowledges
+**Longfei Huang**, Xiangyu Wu, Jingyuan Wang, Weili Guo, Yang Yang*
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='eK0HWicAAAAJ:2osOgNQ5qMEC'></span></strong>
+</div>
+</div>
+
+- [The Solution for the sequential task continual learning track of the 2nd Greater Bay Area International Algorithm Competition](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:9yKSN-GCB0IC), Competition report.
+
+- [The Solution for the 5th GCAIAC Zero-shot Referring Expression Comprehension Challenge](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:d1gkVwhDpl0C), Competition report.
+  
+- [The Solution for the GAIIC2024 RGB-TIR object detection Challenge](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:u-x6o8ySG0sC), Competition report.
