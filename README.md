@@ -43,7 +43,7 @@ ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP)
 
 Yuxuan Zhang†, **Longfei Huang**†, Yang Yang* (†Equal Contribution)
 
-[**Paper**]() Coming Soon
+[**Paper**]() Coming Soon [Competition report](https://arxiv.org/abs/2407.04998)
 </div>
 </div>
 
