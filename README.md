@@ -41,7 +41,7 @@ Multimodal Semantic Decoupled Prompt for Zero-Shot Referring Expression Comprehe
 
 ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP)
 
-Yuxuan Zhang<sup>#</sup>, **Longfei Huang**<sup>#</sup>, Yang Yang* (Co-author)
+Yuxuan Zhang†, **Longfei Huang**†, Yang Yang* (†Equal Contribution)
 
 [**Paper**]() Coming Soon
 </div>
