@@ -47,7 +47,7 @@ NeruIPS 2025 (Oral) [**Github**](https://github.com/hlf404/AUG)
 
 Qingyuan Jiang, **Longfei Huang**, Yang Yang*
 
-[**Paper**]() Coming Soon
+[**Paper**](https://arxiv.org/pdf/2502.20120?)
 </div>
 </div>
 
