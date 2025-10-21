@@ -60,7 +60,7 @@ ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP)
 
 Yuxuan Zhang<sup>†</sup>, **Longfei Huang**<sup>†</sup>, Yang Yang* (<sup>†</sup>Equal Contribution)
 
-[**Paper**]() Coming Soon [Competition report](https://arxiv.org/abs/2407.04998)
+[**Paper**](http://home.njustkmg.cn:4056/assets/pdf/publications/Conference%20Papers/Multimodal%20Semantic%20Decoupled%20Prompt%20for%20Zero-Shot%20Referring%20Expression%20Comprehension.pdf) [Competition report](https://arxiv.org/abs/2407.04998)
 </div>
 </div>
 
@@ -73,7 +73,7 @@ ACML 2024 [**Github**](https://github.com/hlf404/ACML-SET)
 
 **Longfei Huang**, Xiangyu Wu, Jingyuan Wang, Weili Guo, Yang Yang*
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&user=eK0HWicAAAAJ&citation_for_view=eK0HWicAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='eK0HWicAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Paper**](https://raw.githubusercontent.com/mlresearch/v260/main/assets/huang25a/huang25a.pdf)
 </div>
 </div>
 
