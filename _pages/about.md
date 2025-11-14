@@ -19,6 +19,7 @@ redirect_from:
 Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Knowledge Mining Group (KMG)</a> at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I am supervised by Prof. <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Yang Yang</a> and Associate Prof. <a href="https://jiangqy.github.io/" target="_blank">Qingyuan Jiang</a>. My research interests focus on multimodal learning.
 
 # 🔥 News
+- *2025.11*: &nbsp; Attended China Symposium on Machine Learning and Applications (MLA) 2025 Poster.
 - *2025.09*: &nbsp; One paper has been accepted by **NeruIPS 2025** as an Oral paper (CCF-A).
 - *2025.07*: &nbsp; One paper has been accepted by **ECAI 2025** (CCF-B).
 - *2024.09*: &nbsp; One paper has been accepted by **ACML 2024** (CCF-C). 
