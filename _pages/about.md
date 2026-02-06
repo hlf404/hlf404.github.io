@@ -57,7 +57,7 @@ Qingyuan Jiang, **Longfei Huang**, Yang Yang*
 
 Multimodal Semantic Decoupled Prompt for Zero-Shot Referring Expression Comprehension
 
-ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP)
+ECAI 2025 [**Github**](https://github.com/hlf404/ECAI25-MSDP) The 5th GCAIAC Zero-shot Referring Expression Comprehension Challenge.
 
 Yuxuan Zhang<sup>†</sup>, **Longfei Huang**<sup>†</sup>, Yang Yang* (<sup>†</sup>Equal Contribution)
 
