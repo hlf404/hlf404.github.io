@@ -40,7 +40,7 @@ Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/NIPS25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning
