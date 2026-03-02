@@ -19,6 +19,7 @@ redirect_from:
 Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Knowledge Mining Group (KMG)</a> at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I am supervised by Prof. <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Yang Yang</a> and Associate Prof. <a href="https://jiangqy.github.io/" target="_blank">Qingyuan Jiang</a>. My research interests focus on multimodal learning.
 
 # 🔥 News
+- *2026.02*: &nbsp; One paper has been accepted by **CVPR 2026** (CCF-A).
 - *2025.11*: &nbsp; Attended China Symposium on Machine Learning and Applications (MLA) 2025 Poster.
 - *2025.09*: &nbsp; One paper has been accepted by **NeruIPS 2025** as an Oral paper (CCF-A).
 - *2025.07*: &nbsp; One paper has been accepted by **ECAI 2025** (CCF-B).
@@ -38,6 +39,19 @@ Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/
 - *2023.09* Outstanding Undergraduate Thesis (Design) Award of NanJing XiaoZhuang University.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/NIPS25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning
+
+CVPR 2026 [**Github**] COMING SOON
+
+Zhihao Guan, **Longfei Huang**, Yang Yang*
+
+[**Paper**] COMING SOON
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/NIPS25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
