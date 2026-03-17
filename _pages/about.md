@@ -19,6 +19,7 @@ redirect_from:
 Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Knowledge Mining Group (KMG)</a> at the School of Computer Science and Engineering, Nanjing University of Science and Technology. I am supervised by Prof. <a href="http://home.njustkmg.cn:4056/Introduction.html" target="_blank">Yang Yang</a> and Associate Prof. <a href="https://jiangqy.github.io/" target="_blank">Qingyuan Jiang</a>. My research interests focus on multimodal learning.
 
 # 🔥 News
+- *2026.03*: &nbsp; One paper has been accepted by **ICME 2026** (CCF-B).
 - *2026.02*: &nbsp; One paper has been accepted by **CVPR 2026** (CCF-A).
 - *2025.11*: &nbsp; Attended China Symposium on Machine Learning and Applications (MLA) 2025 Poster.
 - *2025.09*: &nbsp; One paper has been accepted by **NeruIPS 2025** as an Oral paper (CCF-A).
@@ -40,12 +41,25 @@ Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/ICME26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Harmonized Tabular-Image Fusion via Gradient-Aligned Alternating Learning
+
+ICME 2026 [**Github**] COMING SOON
+
+**Longfei Huang**, Yang Yang*
+
+[**Paper**] COMING SOON
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning
 
-CVPR 2026 [**Github**] COMING SOON
+CVPR 2026 [**Github**](https://github.com/njustkmg/CVPR26-ANGA)
 
 Zhihao Guan, **Longfei Huang**, Yang Yang*
 
