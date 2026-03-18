@@ -46,7 +46,7 @@ Hi, I am currently pursuing my PhD in the <a href="http://home.njustkmg.cn:4056/
 
 Harmonized Tabular-Image Fusion via Gradient-Aligned Alternating Learning
 
-ICME 2026 [**Github**] COMING SOON
+ICME 2026 [**Github**](https://github.com/hlf404/GAAL)
 
 **Longfei Huang**, Yang Yang*
 
