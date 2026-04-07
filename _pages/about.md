@@ -50,7 +50,7 @@ ICME 2026 [**Github**](https://github.com/hlf404/GAAL)
 
 **Longfei Huang**, Yang Yang*
 
-[**Paper**] COMING SOON
+[**Paper**](https://arxiv.org/abs/2604.01579)
 </div>
 </div>
 
@@ -63,7 +63,7 @@ CVPR 2026 [**Github**](https://github.com/njustkmg/CVPR26-ANGA)
 
 Zhihao Guan, **Longfei Huang**, Yang Yang*
 
-[**Paper**] COMING SOON
+[**Paper**](http://home.njustkmg.cn:4056/assets/pdf/publications/Conference%20Papers/CVPR26_Anchor-Guided_Gradient_Alignment_for_Incomplete_Multimodal_Learning.pdf)
 </div>
 </div>
 
